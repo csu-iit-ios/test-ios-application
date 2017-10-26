@@ -14,6 +14,15 @@
 		AB5057EB1F9605A7005262D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB5057E91F9605A7005262D4 /* LaunchScreen.storyboard */; };
 		AB5057F61F9605A7005262D4 /* FirstAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5057F51F9605A7005262D4 /* FirstAppTests.swift */; };
 		AB5058011F9605A7005262D4 /* FirstAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5058001F9605A7005262D4 /* FirstAppUITests.swift */; };
+		ABBFB8121FA2699700DDEF83 /* Kajal Eau de Parfum.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ABBFB8091FA2699700DDEF83 /* Kajal Eau de Parfum.jpg */; };
+		ABBFB8131FA2699700DDEF83 /* Milano Collection 2014.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ABBFB80A1FA2699700DDEF83 /* Milano Collection 2014.jpg */; };
+		ABBFB8141FA2699700DDEF83 /* Milano Collection 2011.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = ABBFB80B1FA2699700DDEF83 /* Milano Collection 2011.jpeg */; };
+		ABBFB8151FA2699700DDEF83 /* Lilirose.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ABBFB80C1FA2699700DDEF83 /* Lilirose.jpg */; };
+		ABBFB8161FA2699700DDEF83 /* Milano Collection 2009.png in Resources */ = {isa = PBXBuildFile; fileRef = ABBFB80D1FA2699700DDEF83 /* Milano Collection 2009.png */; };
+		ABBFB8171FA2699700DDEF83 /* Saint 2017.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ABBFB80E1FA2699700DDEF83 /* Saint 2017.jpg */; };
+		ABBFB8181FA2699700DDEF83 /* Kapsule Woody.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ABBFB80F1FA2699700DDEF83 /* Kapsule Woody.jpg */; };
+		ABBFB8191FA2699700DDEF83 /* Sun Moon Stars.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ABBFB8101FA2699700DDEF83 /* Sun Moon Stars.jpg */; };
+		ABBFB81A1FA2699700DDEF83 /* Lagerfeld Men.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ABBFB8111FA2699700DDEF83 /* Lagerfeld Men.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		AB5057FC1F9605A7005262D4 /* FirstAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB5058001F9605A7005262D4 /* FirstAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstAppUITests.swift; sourceTree = "<group>"; };
 		AB5058021F9605A7005262D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABBFB8091FA2699700DDEF83 /* Kajal Eau de Parfum.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kajal Eau de Parfum.jpg"; sourceTree = "<group>"; };
+		ABBFB80A1FA2699700DDEF83 /* Milano Collection 2014.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Milano Collection 2014.jpg"; sourceTree = "<group>"; };
+		ABBFB80B1FA2699700DDEF83 /* Milano Collection 2011.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Milano Collection 2011.jpeg"; sourceTree = "<group>"; };
+		ABBFB80C1FA2699700DDEF83 /* Lilirose.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lilirose.jpg; sourceTree = "<group>"; };
+		ABBFB80D1FA2699700DDEF83 /* Milano Collection 2009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Milano Collection 2009.png"; sourceTree = "<group>"; };
+		ABBFB80E1FA2699700DDEF83 /* Saint 2017.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Saint 2017.jpg"; sourceTree = "<group>"; };
+		ABBFB80F1FA2699700DDEF83 /* Kapsule Woody.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kapsule Woody.jpg"; sourceTree = "<group>"; };
+		ABBFB8101FA2699700DDEF83 /* Sun Moon Stars.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sun Moon Stars.jpg"; sourceTree = "<group>"; };
+		ABBFB8111FA2699700DDEF83 /* Lagerfeld Men.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lagerfeld Men.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +115,7 @@
 		AB5057DF1F9605A7005262D4 /* FirstApp */ = {
 			isa = PBXGroup;
 			children = (
+				ABBFB8081FA2694A00DDEF83 /* Pictures */,
 				AB5057E01F9605A7005262D4 /* AppDelegate.swift */,
 				AB5057E21F9605A7005262D4 /* ViewController.swift */,
 				AB5057E41F9605A7005262D4 /* Main.storyboard */,
@@ -123,6 +142,22 @@
 				AB5058021F9605A7005262D4 /* Info.plist */,
 			);
 			path = FirstAppUITests;
+			sourceTree = "<group>";
+		};
+		ABBFB8081FA2694A00DDEF83 /* Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				ABBFB8091FA2699700DDEF83 /* Kajal Eau de Parfum.jpg */,
+				ABBFB80F1FA2699700DDEF83 /* Kapsule Woody.jpg */,
+				ABBFB8111FA2699700DDEF83 /* Lagerfeld Men.jpg */,
+				ABBFB80C1FA2699700DDEF83 /* Lilirose.jpg */,
+				ABBFB80D1FA2699700DDEF83 /* Milano Collection 2009.png */,
+				ABBFB80B1FA2699700DDEF83 /* Milano Collection 2011.jpeg */,
+				ABBFB80A1FA2699700DDEF83 /* Milano Collection 2014.jpg */,
+				ABBFB80E1FA2699700DDEF83 /* Saint 2017.jpg */,
+				ABBFB8101FA2699700DDEF83 /* Sun Moon Stars.jpg */,
+			);
+			path = Pictures;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +267,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABBFB8131FA2699700DDEF83 /* Milano Collection 2014.jpg in Resources */,
+				ABBFB8121FA2699700DDEF83 /* Kajal Eau de Parfum.jpg in Resources */,
+				ABBFB8171FA2699700DDEF83 /* Saint 2017.jpg in Resources */,
 				AB5057EB1F9605A7005262D4 /* LaunchScreen.storyboard in Resources */,
 				AB5057E81F9605A7005262D4 /* Assets.xcassets in Resources */,
+				ABBFB8191FA2699700DDEF83 /* Sun Moon Stars.jpg in Resources */,
+				ABBFB81A1FA2699700DDEF83 /* Lagerfeld Men.jpg in Resources */,
+				ABBFB8181FA2699700DDEF83 /* Kapsule Woody.jpg in Resources */,
+				ABBFB8161FA2699700DDEF83 /* Milano Collection 2009.png in Resources */,
 				AB5057E61F9605A7005262D4 /* Main.storyboard in Resources */,
+				ABBFB8151FA2699700DDEF83 /* Lilirose.jpg in Resources */,
+				ABBFB8141FA2699700DDEF83 /* Milano Collection 2011.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
